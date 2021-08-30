@@ -7,7 +7,7 @@
 ### **社交主页：**
 
 - <a href="https://space.bilibili.com/15093822"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/bilibili.png"></code></a>
-- <a href="http://bgm.tv/user/559454"><code><img height="20" width="50" -- src="https://github.com/vaecebyZ/vaecebyZ/blob/main/bangumi.png"></code></a>
+- <a href="http://bgm.tv/user/559454"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/bangumi.png"></code></a>
 <a href="http://bgm.tv/user/559454"><img src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" /></a>
 
 ### **技术栈:**
