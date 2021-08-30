@@ -11,7 +11,7 @@
 - <a href="https://space.bilibili.com/15093822"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/bilibili.png"></code></a>
 - <a href="http://bgm.tv/user/559454"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/bangumi.png"></code></a>
 - <a href="https://steamcommunity.com/id/xHz233/"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/steam.png"></code></a>
-- - <a href="https://music.163.com/#/user/home?id=107536139"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/netease.png"></code></a>
+- <a href="https://music.163.com/#/user/home?id=107536139"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/netease.png"></code></a>
 
 ### **给你们整点绝活：**
 
