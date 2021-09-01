@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:vaecebyZ?theme=rule34">
 
-## Sanka-散华
+## Sanka 散华
 
-老二刺螈、什么都知道但什么都不精的有着全栈梦的前端咸鱼。
+老二刺螈有着全栈梦的前端咸鱼。
 
 <img align="right" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
