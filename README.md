@@ -2,7 +2,7 @@
 
 ## Sanka 散华
 
-有着全栈梦的前端老的二刺螈。
+有着全栈梦的前端老二刺螈。
 
 <img align="right" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
