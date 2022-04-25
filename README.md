@@ -6,14 +6,14 @@
 
 <img align="right" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
-### **dalao赏脸瞅瞅：**
+### **dalao Have a look：**
 
 - <a href="https://space.bilibili.com/15093822"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/bilibili.png"></code></a>
 - <a href="http://bgm.tv/user/559454"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/bangumi.png"></code></a>
 - <a href="https://steamcommunity.com/id/xHz233/"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/steam.png"></code></a>
 - <a href="https://music.163.com/#/user/home?id=107536139"><code><img height="20" width="50" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/netease.png"></code></a>
 
-### **给你们整点绝活：**
+### **ノーコードノーライフ：**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/less.png"></code>
