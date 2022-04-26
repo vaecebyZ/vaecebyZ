@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:vaecebyZ?theme=rule34">
 
-## Sanka 散华
+## Sanka 散華
 
 有着全栈梦的前端老二刺螈。
 
@@ -24,5 +24,5 @@
 <code><img height="20" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/element.png"></code>
 
 ### 这里个个都是人才：
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaecebyZ)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaecebyZ&layout=compact)
 ![vaecebyZ's github stats](https://github-readme-stats.vercel.app/api?username=vaecebyZ&show_icons=true&theme=vue)
