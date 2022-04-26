@@ -24,5 +24,13 @@
 <code><img height="20" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/element.png"></code>
 
 ### 这里个个都是人才：
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaecebyZ&layout=compact)
-![vaecebyZ's github stats](https://github-readme-stats.vercel.app/api?username=vaecebyZ&show_icons=true&theme=vue)
+ <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaecebyZ&show_icons=true&hide_border=true" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaecebyZ&layout=compact&hide_border=true" />
+      </td>
+    </tr>
+  </table>
