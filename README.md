@@ -23,6 +23,7 @@
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/uni.png"></code>
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/element.png"></code>
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/docker.jpg"></code>
+<code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/opensuse.png"></code>
 
 ### 这里个个都是人才：
  <table>
