@@ -2,11 +2,11 @@
 
 ## Sanka 散華
 
-喜欢Citypop、Lofi、Anime的中古99年前端老二刺螈。
+喜欢Citypop、Lofi、Anime的中古99年前端菜鸡老二刺螈。
 
 <img align="right" height="300" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
-### **dalao Have a look：**
+### **Find me：**
  <a href="https://space.bilibili.com/15093822"><img height="40" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/bilibili.png"></a>
  <a href="http://bgm.tv/user/559454"><img height="40" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/bangumi.png"></a>
  <a href="https://steamcommunity.com/id/xHz233/"><img height="40" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/steam.png"></a>
