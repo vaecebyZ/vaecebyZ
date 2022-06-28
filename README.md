@@ -2,7 +2,7 @@
 
 ## Sanka 散華
 
-喜欢rhythm game、Citypop、Lofi、Anime的中古99年菜鸡。
+喜欢Rhythm Game、Citypop、Lofi、Anime的中古99年菜鸡。
 
 <img align="right" height="300" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
