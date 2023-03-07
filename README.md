@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:vaecebyZ?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:vaecebyZ?theme=moebooru">
 
 ##  Hi, 👋 I'm Sanka 散華
 
