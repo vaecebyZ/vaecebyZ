@@ -2,9 +2,7 @@
 
 ##  Hi, 👋 I'm Sanka 散華
 
-<img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/sleepyjill.png">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=39C5BB&center=%E5%81%87&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=270&height=20&lines=%E5%96%9C%E6%AC%A2Rhythm+Game%E3%80%81Lofi%E3%80%81%E4%B8%AD%E5%8F%A4Anime%E3%80%82" alt="Typing SVG" />
-<img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/seriousboss.png">
+<img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/sleepyjill.png"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=39C5BB&center=%E5%81%87&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=270&height=20&lines=%E5%96%9C%E6%AC%A2Rhythm+Game%E3%80%81Lofi%E3%80%81%E4%B8%AD%E5%8F%A4Anime%E3%80%82" alt="Typing SVG" /><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/seriousboss.png">
 
 <img align="right" height="300" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
