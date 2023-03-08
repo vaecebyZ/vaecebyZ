@@ -29,11 +29,11 @@
 ### 这里个个都是人才：
  <table>
     <tr>
-     <td colspan="2"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaecebyZ&theme=tokyo-night" /> </td>
+     <td colspan="2"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=vaecebyZ&theme=tokyo-night&bg_color=ffffff" /> </td>
     </tr>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaecebyZ&show_icons=true&hide_border=true" />
+        <img  align="center" src="https://github-readme-stats.vercel.app/api?username=vaecebyZ&show_icons=true&hide_border=true" />
       </td>
       <td>
         <img align="center" width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaecebyZ&layout=compact&hide_border=true" />
