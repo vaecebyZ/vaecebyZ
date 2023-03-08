@@ -29,7 +29,7 @@
 ### 这里个个都是人才：
  <table>
     <tr>
-      [![vaecebyZ's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vaecebyZ&theme=tokyo-night)]
+      ![vaecebyZ's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vaecebyZ&theme=tokyo-night)
     </tr>
     <tr>
       <td>
