@@ -2,7 +2,7 @@
 
 ##  Hi, 👋 I'm Sanka 散華
 
-喜欢Rhythm Game、Lofi、中古Anime。<img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/sleepyjill.png"><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/seriousboss.png">
+<img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/sleepyjill.png">喜欢Rhythm Game、Lofi、中古Anime。<img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/seriousboss.png">
 
 <img align="right" height="300" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
