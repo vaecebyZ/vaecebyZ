@@ -29,6 +29,9 @@
 ### 这里个个都是人才：
  <table>
     <tr>
+      [![vaecebyZ's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vaecebyZ&theme=tokyo-night)]
+    </tr>
+    <tr>
       <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaecebyZ&show_icons=true&hide_border=true" />
       </td>
