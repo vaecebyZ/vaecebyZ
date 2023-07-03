@@ -28,7 +28,7 @@
 
 ### 这里个个都是人才：
  <table>
-    <tr>/graph?username=vaecebyZ
+    <tr>
      <td colspan="2"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaecebyZ&theme=tokyo-night&bg_color=ffffff" /> </td>
     </tr>
     <tr>
