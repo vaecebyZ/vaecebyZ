@@ -3,8 +3,9 @@
 ##  Hi, 👋 I'm Sanka 散華
 
 <img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/sleepyjill.png">
-<img style="display:inline" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&pause=1000&color=39C5BB%C2%A2er=%E5%81%87&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=270&height=20&lines=%E4%BA%8C%E5%88%BA%E8%9E%88%E3%80%81OSU!%E4%B8%8B%E6%89%8B%E3%80%81CityPoP%E7%88%B1%E5%A5%BD%E8%80%85%E3%80%82" alt="Typing SVG" />
 <img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/seriousboss.png">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&pause=1000&color=39C5BB%C2%A2er=%E5%81%87&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=270&height=20&lines=%E4%BA%8C%E5%88%BA%E8%9E%88%E3%80%81OSU!%E4%B8%8B%E6%89%8B%E3%80%81CityPoP%E7%88%B1%E5%A5%BD%E8%80%85%E3%80%82" alt="Typing SVG" />
+
 
 <img align="right" height="300" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
 
@@ -24,11 +25,10 @@
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/typescript.png"></code>
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/electron.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/reactnative.png"></code>
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/nodejs.png"></code>
 <code><img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/docker.jpg"></code>
 
-
-### 这里个个都是人才：
  <table>
     <tr>
      <td colspan="2"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vaecebyZ&theme=tokyo-night&bg_color=ffffff" /> </td>
