@@ -3,7 +3,7 @@
 ##  Hi, 👋 I'm Sanka 散華
 
 <img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/sleepyjill.png">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&pause=1000&color=39C5BB%C2%A2er=%E5%81%87&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=270&height=20&lines=%E4%BA%8C%E5%88%BA%E8%9E%88%E3%80%81OSU!%E4%B8%8B%E6%89%8B%E3%80%81CityPoP%E7%88%B1%E5%A5%BD%E8%80%85%E3%80%82" alt="Typing SVG" />
+<img style="display:inline" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=14&pause=1000&color=39C5BB%C2%A2er=%E5%81%87&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=270&height=20&lines=%E4%BA%8C%E5%88%BA%E8%9E%88%E3%80%81OSU!%E4%B8%8B%E6%89%8B%E3%80%81CityPoP%E7%88%B1%E5%A5%BD%E8%80%85%E3%80%82" alt="Typing SVG" />
 <img height="40" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/seriousboss.png">
 
 <img align="right" height="300" src="http://bgm.tv/chart/img/559454" border="0" alt="vaecebyZ 的个人主页" />
