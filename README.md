@@ -12,7 +12,6 @@
  <a href="http://bgm.tv/user/559454"><img height="50" width="70" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/bangumi.png"></a>
  <a href="https://steamcommunity.com/id/xHz233/"><img height="50" width="70" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/steam.png"></a>
  <a href="https://space.bilibili.com/15093822"><img height="50" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/bilibili.png"></a>
- <a href="https://open.spotify.com/user/31w4lpcehfec5urkvszyg64eocge"><img height="50" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/spotify.png"></a>
  <a href="https://music.163.com/#/user/home?id=107536139"><img height="50" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/netease.png"></a>
  <a href="https://osu.ppy.sh/users/12669525/osu"><img height="50" width="60" src="https://github.com/vaecebyZ/vaecebyZ/blob/main/img/osu.png"></a>
 ### **ノーコードノーライフ：**
